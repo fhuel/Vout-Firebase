@@ -1,0 +1,10 @@
+.poll{max-width: 800px;}
+.poll h3{text-align: center;}
+
+.poll .author{max-width: 230px; margin:1em auto; text-align: center; }
+.poll img{float:left; width:40px; border-radius: 20px;}
+.poll span{}
+
+.poll p{clear: both; max-width: 600px; margin:0 auto; text-align: center;}
+
+.poll ul{list-style: none; max-width: 400px; margin:4em auto;}

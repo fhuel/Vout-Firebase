@@ -1,0 +1,1 @@
+Aggiunta la libreria whatwg-fetch, una implementazione dello standard web fetch, per rendere le richieste HTTP molto più semplici da gestire.
